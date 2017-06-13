@@ -1,6 +1,6 @@
 # snake
 
-A Quil sketch designed to ... well, that part is up to you.
+A simple snake game made using Clojure and the Quil animation library
 
 ## Usage
 
